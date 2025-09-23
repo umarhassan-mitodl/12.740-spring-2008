@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ]
+  ],
+  "legacy_uid": "96fdf04b-75f1-d1ac-8cc0-438308254ef1",
+  "instructors": {
+    "content": [
+      "62ce5249-fee9-d425-0d77-765502ec1f24"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "38f52016-823c-d44e-450b-616ef00a157a",
+    "website": "12-740-paleoceanography-spring-2008"
+  },
+  "course_title": "Paleoceanography",
+  "course_description": "This class examines tools, data, and ideas related to past climate changes as seen in marine, ice core, and continental records. The most recent climate changes (mainly the past 500,000 years, ranging up to about 2 million years ago) will be emphasized. Quantitative tools for the examination of paleoceanographic data will be introduced (statistics, factor analysis, time series analysis, simple climatology).\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.740",
+  "course_image_thumbnail": {
+    "content": "d8a1811a-431b-871a-2de8-77761654d2c3",
+    "website": "12-740-paleoceanography-spring-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "8dd4c60a-9fc7-438c-844b-b93edd8ef00b",
+  "site_short_id": "12.740-spring-2008",
+  "site_url_path": "courses/12-740-paleoceanography-spring-2008",
+  "title": "Course Metadata"
+}
