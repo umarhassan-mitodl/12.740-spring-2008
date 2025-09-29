@@ -6,6 +6,8 @@ description: Problem set on the salinity of the glacial ocean, the change in mea
 file: /courses/12-740-paleoceanography-spring-2008/b10d1257c1a77d3bfe038b8c07aa8768_paleo_problem1.pdf
 file_size: 20241
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

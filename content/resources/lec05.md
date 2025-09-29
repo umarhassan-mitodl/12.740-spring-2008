@@ -5,6 +5,8 @@ description: Lecture notes on sea-level and climate change, coral reefs on stabl
 file: /courses/12-740-paleoceanography-spring-2008/fb1398024a2268b22a0fceae71d98f03_lec05.pdf
 file_size: 480507
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

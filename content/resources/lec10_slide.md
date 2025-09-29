@@ -5,6 +5,8 @@ description: Lecture presentation on atmospheric carbon dioxide, ocean chemistry
 file: /courses/12-740-paleoceanography-spring-2008/c5040d5c3c20372c8f6225d75e95674d_lec10_slide.pdf
 file_size: 1230079
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

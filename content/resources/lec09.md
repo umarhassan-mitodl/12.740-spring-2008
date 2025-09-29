@@ -6,6 +6,8 @@ description: Lecture notes on deep-ocean paleoceanography, ocean chemistry, link
 file: /courses/12-740-paleoceanography-spring-2008/ae76716434bccc1a11b3192025c48b20_lec09.pdf
 file_size: 263148
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

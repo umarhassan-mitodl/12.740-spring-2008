@@ -5,6 +5,8 @@ description: Lecture presentation on paleo-ecological temperature estimation, pr
 file: /courses/12-740-paleoceanography-spring-2008/f68484ab61b7903984dab3d74462b06d_lec04_slide.pdf
 file_size: 828678
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

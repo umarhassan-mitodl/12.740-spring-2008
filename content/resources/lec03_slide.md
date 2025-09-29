@@ -10,6 +10,8 @@ description: Lecture presentation on oxygen isotope paleothermometry, cumulative
 file: /courses/12-740-paleoceanography-spring-2008/3f263afcc13cc3c0dbc7b37a2ba33003_lec03_slide.pdf
 file_size: 1037771
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

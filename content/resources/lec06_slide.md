@@ -5,6 +5,8 @@ description: Lecture presentation on glacial/interglacial oscillations, Fourier 
 file: /courses/12-740-paleoceanography-spring-2008/c4c1e4f1f05564b21d4c631909a8048d_lec06_slide.pdf
 file_size: 2114412
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

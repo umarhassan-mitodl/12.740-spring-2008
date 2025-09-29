@@ -5,6 +5,8 @@ description: Lecture notes on carbon-14 production and simple age calculation, i
 file: /courses/12-740-paleoceanography-spring-2008/f3f8e699e86571a6b0e430eeb095a018_lec09a.pdf
 file_size: 349932
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

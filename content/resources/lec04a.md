@@ -7,6 +7,8 @@ description: Lecture notes on Paleo-ecological temperature estimation, factor an
 file: /courses/12-740-paleoceanography-spring-2008/81363ae0114b5824c91a90fcd867022e_lec04a.pdf
 file_size: 155464
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

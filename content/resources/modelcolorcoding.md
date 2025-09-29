@@ -4,6 +4,8 @@ description: Handout on color coding of the 3-Box Model.
 file: /courses/12-740-paleoceanography-spring-2008/bff6b58b72856474daf22f97ec77dd4c_modelcolorcoding.pdf
 file_size: 65221
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

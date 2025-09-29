@@ -5,6 +5,8 @@ description: Lecture presentation on deep ocean paleoceanography and benthic for
 file: /courses/12-740-paleoceanography-spring-2008/647e0b5225b6342b1e3fb8dd7e417f41_lec09_1_slide.pdf
 file_size: 940902
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Lecture notes on continental evidence for glacial climate change.
 file: /courses/12-740-paleoceanography-spring-2008/27b958411670287742040cad5b015072_lec11.pdf
 file_size: 262602
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

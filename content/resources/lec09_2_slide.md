@@ -5,6 +5,8 @@ description: Lecture presentation on deep-ocean paleoceanography, ocean chemistr
 file: /courses/12-740-paleoceanography-spring-2008/a2363badee08c771ae9efe57df0c2d41_lec09_2_slide.pdf
 file_size: 1617983
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

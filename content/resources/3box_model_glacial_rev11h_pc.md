@@ -4,6 +4,8 @@ description: Simulation of the 3-Box Model.
 file: /courses/12-740-paleoceanography-spring-2008/63ba8b28228842b9b55af0bb0bbf5a36_3box_model_Glacial_rev11h_PC.xls
 file_size: 151552
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

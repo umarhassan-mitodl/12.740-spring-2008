@@ -6,6 +6,8 @@ description: 'Lecture notes on studies of delta-O-18 and foraminifera in the mod
 file: /courses/12-740-paleoceanography-spring-2008/92bace8a0a56bdb59d09f9d44bc497a2_lec12.pdf
 file_size: 397957
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,6 +7,8 @@ description: Lecture presentation on coastline evidence for sea level change, th
 file: /courses/12-740-paleoceanography-spring-2008/425c940364cab0b50dad0480e5267156_lec05_slide.pdf
 file_size: 1563032
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

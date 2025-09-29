@@ -38,6 +38,7 @@
     "website": "12-740-paleoceanography-spring-2008"
   },
   "course_title": "Paleoceanography",
+  "hide_download": true,
   "course_description": "This class examines tools, data, and ideas related to past climate changes as seen in marine, ice core, and continental records. The most recent climate changes (mainly the past 500,000 years, ranging up to about 2 million years ago) will be emphasized. Quantitative tools for the examination of paleoceanographic data will be introduced (statistics, factor analysis, time series analysis, simple climatology).\n",
   "department_numbers": [
     "12"
@@ -48,6 +49,7 @@
     "content": "d8a1811a-431b-871a-2de8-77761654d2c3",
     "website": "12-740-paleoceanography-spring-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"
