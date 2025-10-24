@@ -5,8 +5,6 @@ description: Lecture presentation on ice core evidence for climate change, gases
 file: /courses/12-740-paleoceanography-spring-2008/5924472ff303174bf647366009af9831_lec08a_slide.pdf
 file_size: 1120367
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

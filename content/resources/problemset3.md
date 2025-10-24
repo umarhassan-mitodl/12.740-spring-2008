@@ -4,8 +4,6 @@ description: Problem set on ocean box modeling.
 file: /courses/12-740-paleoceanography-spring-2008/7ad84b195a13936f97eda3a58cc5f2c0_problemset3.pdf
 file_size: 18038
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

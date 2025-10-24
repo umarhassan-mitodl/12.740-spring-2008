@@ -5,8 +5,6 @@ description: Lecture presentation on paleoceanographic tracers and the major pal
 file: /courses/12-740-paleoceanography-spring-2008/f5fbc800bcb1e2820f22c01a2ae2eebd_lec01_slide.pdf
 file_size: 899699
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,8 +7,6 @@ description: Lecture presentation on oxygen isotope paleoclimatology, the thermo
 file: /courses/12-740-paleoceanography-spring-2008/e144c3c90caeec03b949e1f8cdc08f9a_lec02_slide.pdf
 file_size: 620987
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

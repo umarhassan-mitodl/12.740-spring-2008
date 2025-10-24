@@ -4,8 +4,6 @@ description: Lecture notes on oxygen isotope paleoclimatology.
 file: /courses/12-740-paleoceanography-spring-2008/c8d0a79efe58126c966be31d1c3ff440_lec02.pdf
 file_size: 667563
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

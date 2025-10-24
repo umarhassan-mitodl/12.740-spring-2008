@@ -5,8 +5,6 @@ description: Lecture notes on paleoceanographic tracers and the major paleoceano
 file: /courses/12-740-paleoceanography-spring-2008/02f5d967ce637f066a1f68acf5e0bde0_lec01.pdf
 file_size: 130956
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

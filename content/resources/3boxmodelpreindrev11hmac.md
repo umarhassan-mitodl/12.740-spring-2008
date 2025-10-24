@@ -4,8 +4,6 @@ description: Simulation of the 3-Box Model.
 file: /courses/12-740-paleoceanography-spring-2008/cbd144ca870f529bc3f20e9a24bf8278_3boxmodelPreIndrev11hMAC.xls
 file_size: 131072
 file_type: application/msword
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

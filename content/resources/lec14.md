@@ -6,8 +6,6 @@ description: Lecture notes with an introduction to Cenozoic palenoceanography, c
 file: /courses/12-740-paleoceanography-spring-2008/20c1a264cfa46883498078d9e4500ac1_lec14.pdf
 file_size: 90858
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

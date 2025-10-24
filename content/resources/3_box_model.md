@@ -5,8 +5,6 @@ description: 'Handout with an introduction to ocean carbon system box models: th
 file: /courses/12-740-paleoceanography-spring-2008/9c513047c551f0b212e3e2d81e5cf39c_3_box_model.pdf
 file_size: 884193
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

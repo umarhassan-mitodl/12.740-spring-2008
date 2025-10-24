@@ -8,8 +8,6 @@ description: Lecture presentation on continental evidence for glacial climate. I
 file: /courses/12-740-paleoceanography-spring-2008/941a132cd1c5fd22734a8e6f7887430c_lec11_slide.pdf
 file_size: 791680
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

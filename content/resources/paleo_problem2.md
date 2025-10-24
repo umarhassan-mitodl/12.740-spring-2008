@@ -4,8 +4,6 @@ description: Problem set on factor analysis.
 file: /courses/12-740-paleoceanography-spring-2008/a2c6561936aa336a52c56991e8f76960_paleo_problem2.pdf
 file_size: 89932
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

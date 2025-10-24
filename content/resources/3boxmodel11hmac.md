@@ -4,8 +4,6 @@ description: Supplement to a problem set on paleoceanography.
 file: /courses/12-740-paleoceanography-spring-2008/9d06e267d934bb513d0ff1180436b7bd_3boxModel11hMac.xls
 file_size: 116224
 file_type: application/msword
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

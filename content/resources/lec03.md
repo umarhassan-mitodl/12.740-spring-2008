@@ -4,8 +4,6 @@ description: Lecture notes on oxygen-isotope paleothermometry and oxygen isotope
 file: /courses/12-740-paleoceanography-spring-2008/903012022c8da78aec9470f1332257bb_lec03.pdf
 file_size: 305420
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -9,8 +9,6 @@ description: Lecture notes on atmospheric carbon dioxide, ocean chemistry, and m
 file: /courses/12-740-paleoceanography-spring-2008/44d3cbec1620faae3329d01d400afb76_lec10.pdf
 file_size: 464781
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
